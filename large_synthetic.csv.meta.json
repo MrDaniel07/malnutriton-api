@@ -1,0 +1,10 @@
+{
+  "source": "csv_output/filtered/combined_ch_lagos_ogun_under10.csv",
+  "n_rows": 20000,
+  "notes": "Rows resampled with replacement from combined Lagos/Ogun filtered data",
+  "growth_reference": "WHO child growth standards (interpretation: West Africa context)",
+  "HH7_mapping": {
+    "Lagos": 24,
+    "Ogun": 27
+  }
+}
